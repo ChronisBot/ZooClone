@@ -1,0 +1,53 @@
+{
+  materials: [
+    {
+      name: '10021_Giraffe_v03',
+      parameters: [
+        {
+          baseColor: '10021_Giraffe_v05',
+        },
+        {
+          baseColorTint: [
+            0.58819999999999995,
+            0.58819999999999995,
+            0.58819999999999995,
+            1,
+          ],
+        },
+        {
+          metallic: 1,
+        },
+        {
+          roughness: 0.408248,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+  ],
+  model: {
+    attributes: [
+      'Position',
+      'TexCoord',
+      'Orientation',
+    ],
+    collision: {},
+    file: 'sampledata/Giraffe_v04_L3.123c80676cd8-de76-4740-a8d5-0dd8037906af/10021_Giraffe_v04.obj',
+    name: '10021_Giraffe_v04',
+    recenter: 'root',
+    scale: 0.028313999999999999,
+  },
+  samplers: [
+    {
+      file: 'sampledata/Giraffe_v04_L3.123c80676cd8-de76-4740-a8d5-0dd8037906af\\10021_Giraffe_v05.jpg',
+      name: '10021_Giraffe_v05',
+      params: {
+        usage_type: 'Data',
+      },
+      pipeline_name: '10021_Giraffe_v05.jpg',
+    },
+  ],
+  version: '0.52:1',
+}
