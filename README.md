@@ -3,7 +3,8 @@ TheZoo is a simple app that is mainly focused on communicating with bluetooth de
 # Main Menu/Animal Information
 <p align="center">
 <img src="https://github.com/chronis98/TheZoo/blob/master/97313231_2661693807452515_4769953639139639296_n.jpg" width="350" height="550">   <img src="https://github.com/chronis98/TheZoo/blob/master/96451978_237875060983151_8783114627471900672_n.jpg" width="350" height="550">
- </p>
+</p>
+
 # Contact/Chat
 <p align="center">
 <img src="https://github.com/chronis98/TheZoo/blob/master/96748199_2697235777188350_8182312508795650048_n.jpg" width="350" height="550">   <img src="https://github.com/chronis98/TheZoo/blob/master/96607778_2288861928085069_8957986226678267904_n.jpg" width="350" height="550">
