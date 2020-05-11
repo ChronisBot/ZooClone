@@ -18,5 +18,5 @@ TheZoo is a simple app that is mainly focused on communicating with bluetooth de
  
   # Firebase_RealtimeDb_sample
 <p align="center">
- <img src="https://github.com/chronis98/TheZoo/blob/master/Firebase_chat.png" width="350" >
+ <img src="https://github.com/chronis98/TheZoo/blob/master/Firebase_chat.png" width="650" >
  </p>
